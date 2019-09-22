@@ -1,6 +1,7 @@
 body {
     font-size: 18px;
     line-height: 1.5;
+    font-family: 'Montserrat', sans-serif;
 }
 
 header, main, nav, footer {
@@ -24,4 +25,13 @@ footer{
     background-color:navy;
     color: beige;
     text-align: center;
+}
+
+footer a {
+    color: beige;
+}
+
+footer div{
+    color: coral;
+    font-size: 14px;
 }
