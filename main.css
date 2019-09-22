@@ -35,3 +35,7 @@ footer div{
     color: coral;
     font-size: 14px;
 }
+
+header, footer, img {
+    border-radius: 8px;
+}
